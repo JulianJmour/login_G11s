@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Nombre de tu aplicación</string>
+    <string name="registro_usuario">Registro de Usuario</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_usuario">Usuario</string>
+    <string name="hint_contrasena">Contraseña</string>
+    <string name="btn_registrarse">Registrarse</string>
+</resources><
+resources>
+<string name="app_name">Nombre de tu aplicación</string>
+<string name="logo_description">Descripción del logo</string>
+<!-- Otros recursos de cadena -->
+</resources>
